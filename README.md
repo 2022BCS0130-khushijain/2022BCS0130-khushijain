@@ -104,16 +104,14 @@
 ---
 
 ## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain&theme=gruvbox&row=3&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=2022BCS0130-khushijain&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" /> </p>
 </div>
 
 ---
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KJ-Khushi-Jain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2022BCS0130-khushijain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ---
 
