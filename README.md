@@ -27,15 +27,13 @@
 
 ## Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,go,python,java,c" />
 
 ### Backend & Web
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,go,express,react,nextjs" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
